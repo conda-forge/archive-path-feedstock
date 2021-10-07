@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/archive-path-feedstock/blob/master/LICENSE.txt)
 
-Summary: A package to provide pathlib like access to zip & tar archives.
+Summary: A package to provide pathlib like access to zip and tar archives.
 
 Current build status
 ====================
