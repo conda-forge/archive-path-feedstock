@@ -31,7 +31,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: A package to provide pathlib like access to zip and tar archives.
+  summary: A package to provide pathlib like access to zip & tar archives.
 
 extra:
   recipe-maintainers:
